@@ -6,7 +6,7 @@ body{
 }
 .container{
     overflow: hidden;
-    height: 70vh;
+    height: 80vh;
     width: 100vw;
     display:block;
     background-color: #E1D5C4;
